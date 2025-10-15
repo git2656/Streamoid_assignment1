@@ -1,0 +1,14 @@
+# Python virtual environment
+venv/
+
+# SQLite database file
+products.db
+instance/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# IDE/Editor specific files
+.vscode/
+.idea/
